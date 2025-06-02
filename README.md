@@ -23,7 +23,7 @@ Here are some of the technologies I'm skilled with:
 
 - **Programming Languages**: Python, JavaScript, PHP, Java, C++, C, Fortran, C#
 - **Others**: CSS, HTML
-- **Frameworks & Libraries**: TensorFlow, PyTorch, scikit-learn, React, Node.js, Laravel
+- **Frameworks & Libraries**: TensorFlow, PyTorch, scikit-learn, Laravel
 - **Databases**: MySQL, MongoDB
 - **Dev Tools**: Git, Docker, VS Code
 
